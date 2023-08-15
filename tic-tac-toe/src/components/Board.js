@@ -6,8 +6,8 @@ const style = {
   borderRadius: "10px",
   width: "250px",
   height: "250px",
-  marginTop: "100px",
-  margin: "0 auto",
+  // marginTop: "100px",
+  margin: "5% 40% 0",
   display: "grid",
   gridTemplate: "repeat(3, 1fr) / repeat(3, 1fr)",
 };
